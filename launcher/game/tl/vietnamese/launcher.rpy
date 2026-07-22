@@ -149,7 +149,7 @@
 
     # android.rpy:377
     old "Build, Install & Launch"
-    new "Xây dựng, cài đặt và triển khai"
+    new "Xây dựng, cài đặt & triển khai"
 
     # android.rpy:388
     old "Other:"
@@ -157,11 +157,11 @@
 
     # android.rpy:396
     old "Remote ADB Connect"
-    new "Kết nối ADB  từ xa"
+    new "Kết nối ADB từ xa"
 
     # android.rpy:400
     old "Remote ADB Disconnect"
-    new "Ngắt kết nối ADB  từ xa"
+    new "Ngắt kết nối ADB từ xa"
 
     # android.rpy:404
     old "Logcat"
@@ -193,19 +193,19 @@
 
     # android.rpy:518
     old "The port must be a number."
-    new "Cổng port phải là một số."
+    new "Cổng phải là một số."
 
     # android.rpy:544
     old "Retrieving logcat information from device."
-    new "Lấy logcat thông tin từ thiết bị."
+    new "Đang lấy thông tin logcat từ thiết bị."
 
     # choose_directory.rpy:73
     old "Ren'Py was unable to run python with tkinter to choose the directory. Please install the python-tk or tkinter package."
-    new "Ren'Py đã không thể chạy python với Tkinter để chọn thư mục. Vui lòng cài đặt python-tk hoặc gói Tkinter ."
+    new "Ren'Py đã không thể chạy python với Tkinter để chọn thư mục. Vui lòng cài đặt gói python-tk hoặc Tkinter ."
 
     # choose_theme.rpy:303
     old "Could not change the theme. Perhaps options.rpy was changed too much."
-    new "Không thể thay đổi chủ đề. Có lẽ options.rpy đã thay đổi quá nhiều."
+    new "Không thể thay đổi chủ đề. Có lẽ options.rpy đã bị thay đổi quá nhiều."
 
     # choose_theme.rpy:370
     old "Planetarium"
@@ -233,11 +233,11 @@
 
     # consolecommand.rpy:84
     old "The command is being run in a new operating system console window."
-    new "The command is being run in a new operating system console window."
+    new "Câu lệnh đang được chạy trong một cửa sổ bảng điều khiển hệ điều hành mới."
 
     # distribute.rpy:443
     old "Scanning project files..."
-    new "Scanning project files..."
+    new "Đang quét các tập tin của dự án..."
 
     # distribute.rpy:459
     old "Building distributions failed:\n\nThe build.directory_name variable may not include the space, colon, or semicolon characters."
@@ -245,11 +245,11 @@
 
     # distribute.rpy:504
     old "No packages are selected, so there's nothing to do."
-    new "No packages are selected, so there's nothing to do."
+    new "Không có gói nào được chọn, nên không có gì để làm."
 
     # distribute.rpy:516
     old "Scanning Ren'Py files..."
-    new "Scanning Ren'Py files..."
+    new "Đang quét các tệp tin Ren'Py..."
 
     # distribute.rpy:569
     old "All packages have been built.\n\nDue to the presence of permission information, unpacking and repacking the Linux and Macintosh distributions on Windows is not supported."
@@ -257,35 +257,35 @@
 
     # distribute.rpy:752
     old "Archiving files..."
-    new "Archiving files..."
+    new "Đang lưu trữ các tệp tin..."
 
     # distribute.rpy:1050
     old "Unpacking the Macintosh application for signing..."
-    new "Unpacking the Macintosh application for signing..."
+    new "Đang giải nén ứng dụng Macintost cho việc kí..."
 
     # distribute.rpy:1060
     old "Signing the Macintosh application..."
-    new "Signing the Macintosh application..."
+    new "Đang kí ứng dụng Macintosh..."
 
     # distribute.rpy:1082
     old "Creating the Macintosh DMG..."
-    new "Creating the Macintosh DMG..."
+    new "Đang tạo Macintosh DMG..."
 
     # distribute.rpy:1091
     old "Signing the Macintosh DMG..."
-    new "Signing the Macintosh DMG..."
+    new "Đang kí Macintosh DMG..."
 
     # distribute.rpy:1248
     old "Writing the [variant] [format] package."
-    new "Writing the [variant] [format] package."
+    new "Đang viết gói [variant] [format]."
 
     # distribute.rpy:1261
     old "Making the [variant] update zsync file."
-    new "Making the [variant] update zsync file."
+    new "Đang khiến [variant] cập nhật tập tin zsync."
 
     # distribute.rpy:1404
     old "Processed {b}[complete]{/b} of {b}[total]{/b} files."
-    new "Processed {b}[complete]{/b} of {b}[total]{/b} files."
+    new "Đã xử lý {b}[complete]{/b} trong {b}[total]{/b} tập tin."
 
     # distribute_gui.rpy:157
     old "Build Distributions: [project.current.name!q]"
@@ -297,7 +297,7 @@
 
     # distribute_gui.rpy:175
     old "Executable Name:"
-    new "Tên file thực thi:"
+    new "Tên tệp tin thực thi:"
 
     # distribute_gui.rpy:185
     old "Actions:"
@@ -305,7 +305,7 @@
 
     # distribute_gui.rpy:193
     old "Edit options.rpy"
-    new "Edit options.rpy"
+    new "Chỉnh sửa options.rpy"
 
     # distribute_gui.rpy:194
     old "Add from clauses to calls, once"
@@ -317,7 +317,7 @@
 
     # distribute_gui.rpy:199
     old "Upload to itch.io"
-    new "Upload to itch.io"
+    new "Tải lên itch.io"
 
     # distribute_gui.rpy:215
     old "Build Packages:"
@@ -369,7 +369,7 @@
 
     # editor.rpy:169
     old "Up to 22 MB download required."
-    new "Cần tải về 22 MB tập tin."
+    new "Cần tải về 22 MB tệp tin."
 
     # editor.rpy:182
     old "A mature editor that requires Java."
@@ -377,7 +377,7 @@
 
     # editor.rpy:182
     old "1.8 MB download required."
-    new "Cần tải về 1.8 MB tập tin"
+    new "Cần tải về 1.8 MB tệp tin"
 
     # editor.rpy:182
     old "This may have occurred because Java is not installed on this system."
@@ -441,7 +441,7 @@
 
     # front_page.rpy:182
     old "Active Project"
-    new "Dự án đang có"
+    new "Dự án đang hoạt động"
 
     # front_page.rpy:190
     old "Open Directory"
@@ -465,27 +465,27 @@
 
     # front_page.rpy:204
     old "Edit File"
-    new "Chỉnh File"
+    new "Chỉnh sửa tệp tin"
 
     # front_page.rpy:214
     old "All script files"
-    new "Tất cả các file kịch bản"
+    new "Tất cả các tệp tin mã"
 
     # front_page.rpy:223
     old "Navigate Script"
-    new "Điều hướng kịch bản"
+    new "Điều hướng mã"
 
     # front_page.rpy:234
     old "Check Script (Lint)"
-    new "Kiểm tra Script (Lint)"
+    new "Kiểm tra mã (Lint)"
 
     # front_page.rpy:237
     old "Change/Update GUI"
-    new "Change/Update GUI"
+    new "Thay đổi/Cập nhật GUI"
 
     # front_page.rpy:239
     old "Change Theme"
-    new "Thay đổi Theme"
+    new "Thay đổi chủ đề"
 
     # front_page.rpy:242
     old "Delete Persistent"
@@ -505,7 +505,7 @@
 
     # front_page.rpy:255
     old "Generate Translations"
-    new "Tạo file dịch thuật"
+    new "Tạo tệp tin dịch thuật"
 
     # front_page.rpy:256
     old "Extract Dialogue"
@@ -525,7 +525,7 @@
 
     # gui7.rpy:236
     old "Select Accent and Background Colors"
-    new "Select Accent and Background Colors"
+    new "Chọn màu nhấn và màu nền."
 
     # gui7.rpy:250
     old "Please click on the color scheme you wish to use, then click Continue. These colors can be changed and customized later."
