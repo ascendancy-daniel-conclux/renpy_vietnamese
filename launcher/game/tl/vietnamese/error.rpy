@@ -3,7 +3,7 @@ translate vietnamese strings:
 
     # 00gltest.rpy:64
     old "Graphics Acceleration"
-    new "Tăng tốc độ đồ họa"
+    new "Tăng tốc đồ họa"
 
     # 00gltest.rpy:70
     old "Automatically Choose"
@@ -39,23 +39,23 @@ translate vietnamese strings:
 
     # 00gltest.rpy:148
     old "This computer is not using shaders."
-    new "Máy tính này không sử dụng đổ bóng."
+    new "Máy tính này đang không sử dụng đổ bóng."
 
     # 00gltest.rpy:150
     old "This computer is displaying graphics slowly."
-    new "Máy tính này hiển thị đồ họa chậm."
+    new "Máy tính này đang hiển thị đồ họa một cách chậm rãi."
 
     # 00gltest.rpy:152
     old "This computer has a problem displaying graphics: [problem]."
-    new "Máy tính này có một vấn đề hiển thị đồ họa: [problem]"
+    new "Máy tính này có một vấn đề với hiển thị đồ họa: [problem]"
 
     # 00gltest.rpy:157
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Trình điều khiển đồ họa của nó có thể đã quá cũ hoặc vận hành lỗi. Điều này có thể dẫn đến làm chậm hoặc hiển thị đồ họa không chính xác. Cập nhật DirectX có thể khắc phục vấn đề này."
+    new "Trình điều khiển đồ họa của nó có thể đã quá cũ hoặc vận hành không đúng cách. Điều này có thể dẫn đến làm chậm hoặc hiển thị đồ họa không chính xác. Cập nhật DirectX có thể khắc phục vấn đề này."
 
     # 00gltest.rpy:159
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Trình điều khiển đồ họa của nó có thể đã quá cũ hoặc vận hành lỗi. Điều này có thể dẫn đến làm chậm hoặc hiển thị đồ họa không chính xác."
+    new "Trình điều khiển đồ họa của nó có thể đã quá cũ hoặc vận hành không đúng cách. Điều này có thể dẫn đến làm chậm hoặc hiển thị đồ họa không chính xác."
 
     # 00gltest.rpy:164
     old "Update DirectX"
@@ -79,7 +79,7 @@ translate vietnamese strings:
 
     # 00gltest.rpy:200
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b} Lưu ý:.. {/b} Chương trình cài đặt DirectX  web của Microsof theo mặc định sẽ cài đặt thanh công cụ Bing. Nếu bạn không muốn thanh công cụ này, bỏ chọn tại ô."
+    new "{b} Lưu ý:.. {/b} Chương trình cài đặt DirectX web của Microsof theo mặc định sẽ cài đặt thanh công cụ Bing. Nếu bạn không muốn thanh công cụ này, bỏ chọn tại ô."
 
     # 00gltest.rpy:204
     old "When setup finishes, please click below to restart this program."
@@ -95,11 +95,11 @@ translate vietnamese strings:
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new "No Gamepads Available"
+    new "Tay cầm không khả dụng"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Đo đạc [name] ([i]/[total])"
+    new "Đang đo đạc [name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!s] [kind]."
@@ -107,7 +107,7 @@ translate vietnamese strings:
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new "Lướt qua (A)"
+    new "Bỏ qua (A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
@@ -123,11 +123,11 @@ translate vietnamese strings:
 
     # _errorhandling.rpym:499
     old "Copy to Clipboard"
-    new "Sao chép vào bản ghi"
+    new "Sao chép vào bộ nhớ tạm"
 
     # _errorhandling.rpym:501
     old "Copies the traceback.txt file to the clipboard."
-    new "Lưu tập tin traceback.txt vào bản ghi."
+    new "Lưu tập tin traceback.txt vào bộ nhớ tạm."
 
     # _errorhandling.rpym:519
     old "An exception has occurred."
@@ -163,7 +163,7 @@ translate vietnamese strings:
 
     # _errorhandling.rpym:582
     old "Parsing the script failed."
-    new "Phân tích các mã kịch bản thất bại."
+    new "Phân tích mã thất bại."
 
     # _errorhandling.rpym:606
     old "Open Parse Errors"
@@ -171,9 +171,9 @@ translate vietnamese strings:
 
     # _errorhandling.rpym:608
     old "Opens the errors.txt file in a text editor."
-    new "Mở tập tin ERRORS.TXT vào một trình soạn thảo văn bản."
+    new "Mở tập tin ERRORS.TXT trong một trình soạn thảo văn bản."
 
     # _errorhandling.rpym:612
     old "Copies the errors.txt file to the clipboard."
-    new "Lưu các tập tin ERRORS.TXT vào bản ghi."
+    new "Lưu các tập tin ERRORS.TXT vào bộ nhớ tạm."
 
